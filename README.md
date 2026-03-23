@@ -2,7 +2,7 @@
 
 **Application Development Student**  
 10 Dorset St, Woodstock, Cape Town  
-📧 230949703@mycput.ac.za | 📱 076 045 0332 | [LinkedIn](#) | [GitHub](#)
+📧 230949703@mycput.ac.za | 📱 076 045 0332 | [LinkedIn](www.linkedin.com/in/dumisane-madondo-34261626b) | [GitHub](https://github.com/Madondo07)
 
 ---
 
