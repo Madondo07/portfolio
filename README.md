@@ -51,7 +51,8 @@ Seeking a **Work Integrated Learning opportunity** to leverage academic knowledg
 - **Mrs Makinta** — High School Teacher  
   📱 072 561 0582
 ---
-  ## 🎥 Project Demo
+
+## 🎥 Project Demo
 
 <video width="600" controls>
   <source src="Mock Interview Video.mp4" type="video/mp4">
