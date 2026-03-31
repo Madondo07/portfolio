@@ -52,7 +52,7 @@ Seeking a **Work Integrated Learning opportunity** to leverage academic knowledg
   📱 072 561 0582
 ---
 
-## 🎥 Project Demo
+## 🎥 Mock Interview
 
 <video width="600" controls>
   <source src="Mock Interview Video.mp4" type="video/mp4">
