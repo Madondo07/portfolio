@@ -70,7 +70,7 @@ Seeking a **Work Integrated Learning opportunity** to leverage academic knowledg
 
 ## 📌 References
 
-- **Mr. Omphile Rantswele** — Tech Champ/Mentor
+- **Mr. Omphile Rantswele** — Tech Champ/Mentor <br>
   📧 omphile.rantswele@capaciti.org.za
 - **Mr. Kruben Naidoo** — Senior Lecturer  
   📧 naidook@cput.ac.za  
