@@ -1,7 +1,7 @@
 # Dumisane Madondo
 
 **Application Development Student**  
-Cape Town, South Africa 
+Cape Town, South Africa
 📧 230949703@mycput.ac.za | 📱 076 045 0332 | [LinkedIn](www.linkedin.com/in/dumisane-madondo-34261626b) | [GitHub](https://github.com/Madondo07)
 
 ---
