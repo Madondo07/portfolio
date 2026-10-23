@@ -1,7 +1,7 @@
 # Dumisane Madondo
 
 **Application Development Student**  
-10 Dorset St, Woodstock, Cape Town  
+Cape Town, South Africa 
 📧 230949703@mycput.ac.za | 📱 076 045 0332 | [LinkedIn](www.linkedin.com/in/dumisane-madondo-34261626b) | [GitHub](https://github.com/Madondo07)
 
 ---
@@ -70,11 +70,10 @@ Seeking a **Work Integrated Learning opportunity** to leverage academic knowledg
 
 ## 📌 References
 
-- **Mr Kruben Naidoo** — Senior Lecturer  
+- **Mr. Omphile Rantswele** — Tech Champ/Mentor
+  📧 omphile.rantswele@capaciti.org.za
+- **Mr. Kruben Naidoo** — Senior Lecturer  
   📧 naidook@cput.ac.za  
-
-- **Mrs Makinta** — High School Teacher  
-  📱 072 561 0582
 ---
 
 ## 🎥 Mock Interview
