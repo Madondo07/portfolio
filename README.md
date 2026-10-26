@@ -8,7 +8,7 @@ Cape Town, South Africa
 
 ## 🎯 Objective
 
-Final-year Diploma in ICT: Application Development student at CPUT, currently completing **Work Integrated Learning at Demand Academy | CAPACITI** as lead backend developer on a team-built Candidate Operations and Attendance Platform. Seeking a **graduate software development opportunity** where I can apply my full-stack and backend skills, work in agile teams, and contribute product thinking alongside technical delivery. Dedicated to creativity, problem-solving and collaboration, with a goal of continuously expanding my expertise in modern software practices.
+Final-year Diploma in ICT: Application Development student at CPUT, currently completing **Work Integrated Learning at Demand Academy, CAPACITI** as lead backend developer on a team-built Candidate Operations and Attendance Platform. Seeking a **graduate software development opportunity** where I can apply my full-stack and backend skills, work in agile teams, and contribute product thinking alongside technical delivery. Dedicated to creativity, problem-solving and collaboration, with a goal of continuously expanding my expertise in modern software practices.
 
 ---
 
