@@ -76,6 +76,7 @@ Final-year Diploma in ICT: Application Development student at CPUT, currently co
 ---
 
 # 📗 Assessment 2
+📄 [Download the full Assessment 2 document (PDF)](Dumisane-Madondo-PRP372S-Assessment-2.pdf)
 
 ## 🗂️ Agile Project Management
 
