@@ -276,7 +276,7 @@ The charter set the rules, such as file ownership, branching and the daily stand
 
   ### 🎥 Mock Interview
 
-<video width="600" controls>
+<video width="650" controls>
   <source src="Mock Interview Video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
